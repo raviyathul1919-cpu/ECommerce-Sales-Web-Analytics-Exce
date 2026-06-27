@@ -6,7 +6,7 @@ This is my very first hands-on data analytics project built from scratch using *
 My goal was to treat this as a real-world business challenge: joining messily structured tables, cleaning the inputs, building automated logic, and architecting presentation-ready stakeholder visual models.
 
 ## 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview..jpg)
 
 ## 🛠️ Data Engineering & Modeling (What I Built From Scratch)
 Since this was a completely raw dataset, I performed the entire ETL (Extract, Transform, Load) and data modeling process manually:
