@@ -42,4 +42,4 @@ By connecting the insights discovered from both Excel visualizations and SQL que
 ## 📂 How to Access & Setup
 * **SQL Scripts:** View the complete database query breakdown directly via the `e-commerce_analysis.sql` file in this repository.
 * **Excel Source Sheet:** [Click Here to View & Download the Excel sheet](https://www.mediafire.com/file/c7trmsll46mb03g/project.xlsx/file)
-*
+
