@@ -13,7 +13,7 @@ Since the initial dataset was completely raw, I completed the entire ETL (Extrac
 * **Interactive Presentation:** Architected a presentation-ready stakeholder visual dashboard using Pivot Tables, Dynamic Charts, and Interactive Slicers for seamless data filtering.
 
 ### 📊 Dashboard Preview
-![Dashboard Preview](dashboard_preview..jpg)
+![Dashboard Preview](dashboard_preview.jpg)
 
 ---
 
